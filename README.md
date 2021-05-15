@@ -5,6 +5,7 @@ description: to be written
 [View Demo here](https://madhuri-chitikela.github.io/countdown-clock/)
 
 <img src="docs/clock.png" height="500" />
+<img src="docs/clock2.png" height="500" />
 
 ## Tech stack
 
