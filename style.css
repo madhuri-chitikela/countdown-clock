@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+.section-center {
+    margin-top: 50px;
+}
+.gift-info {
+    text-align: left;
+}
+.deadline-format {
+    width: 60px;
+    height: 60px;
+
+}
+.expired {
+    color: crimson;
+}
